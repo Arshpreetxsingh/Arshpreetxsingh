@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Machine Learning </br>
 - 🌱 I’m pursuing my learning in Data Science </br>
 - 💞️ I’m looking to collaborate on build project related to tech and AI </br>
-- 📫 Reach me on LinkdIn - www.linkedin.com/in/arshpreetx10
+- 📫 Reach me on LinkdIn - www.linkedin.com/in/arshpreetsinghiitm
 - 😄 Pronouns: He\Him
 
 
