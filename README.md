@@ -1,27 +1,80 @@
-- 👋 Hi, I’m Arshpreet Singh
-- 👀 I’m interested in AI and Machine Learning </br>
-- 🌱 I’m pursuing my learning in Data Science </br>
-- 💞️ I’m looking to collaborate on build project related to tech and AI </br>
-- 📫 Reach me on LinkdIn - www.linkedin.com/in/arshpreetsinghiitm
-- 😄 Pronouns: He\Him
+# 👋 Hi, I'm Arshpreet Singh
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iitm_arshpreet_singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshpreetx10@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arshpreetxsingh&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arshpreetxsingh&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshpreetxsingh&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 Data Science Undergraduate @ IIT Madras
+🤖 Building real-world AI & Data Systems
+🚀 Interested in Machine Learning, AI Products, and Scalable Systems
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arshpreetxsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-- ⚡ Fun fact: ...
-Arshpreetxsingh/Arshpreetxsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 What I Do
+
+* Build **end-to-end machine learning systems**
+* Work on **real-world datasets and problems**
+* Focus on **practical implementation over theory**
+* Exploring **AI-driven products and platforms**
+
+---
+
+## 🚀 Featured Project
+
+### 🔥 DataSense AI
+
+End-to-end ML system for **Customer Churn Prediction**
+
+* Automated preprocessing & feature engineering
+* Multi-model training (Logistic, Random Forest, XGBoost)
+* Model selection using ROC-AUC
+* Interactive Streamlit dashboard
+* Real-time prediction system
+
+👉 [View Project](https://github.com/Arshpreetxsingh/DataSense-AI)
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Core**
+
+* Python
+* SQL
+
+**Data Science & ML**
+
+* pandas, numpy
+* scikit-learn, XGBoost
+* Data Analysis & Visualization
+
+**Tools & Frameworks**
+
+* Streamlit
+* Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Arshpreetxsingh\&theme=merko\&hide_border=false\&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Arshpreetxsingh\&theme=merko\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshpreetxsingh\&theme=merko\&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/arshpreetsinghiitm
+* 📧 Email: [arshpreetx10@gmail.com](mailto:arshpreetx10@gmail.com)
+* 📸 Instagram: https://instagram.com/iitm_arshpreet_singh
+
+---
+
+## 🎯 Current Focus
+
+* Building **AI-powered platforms**
+* Improving **ML system design & deployment**
+* Working on **real-world scalable projects**
+
+---
+
+⭐ *Always open to collaboration on meaningful AI & tech projects*
